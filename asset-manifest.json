@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/masonry-grid/static/css/main.cf76d3e2.chunk.css",
+    "main.js": "/masonry-grid/static/js/main.a8f3a786.chunk.js",
+    "main.js.map": "/masonry-grid/static/js/main.a8f3a786.chunk.js.map",
+    "runtime-main.js": "/masonry-grid/static/js/runtime-main.b7e91340.js",
+    "runtime-main.js.map": "/masonry-grid/static/js/runtime-main.b7e91340.js.map",
+    "static/js/2.f550f601.chunk.js": "/masonry-grid/static/js/2.f550f601.chunk.js",
+    "static/js/2.f550f601.chunk.js.map": "/masonry-grid/static/js/2.f550f601.chunk.js.map",
+    "index.html": "/masonry-grid/index.html",
+    "precache-manifest.d989fd2cd79a588b30ff4d409fdd319e.js": "/masonry-grid/precache-manifest.d989fd2cd79a588b30ff4d409fdd319e.js",
+    "service-worker.js": "/masonry-grid/service-worker.js",
+    "static/css/main.cf76d3e2.chunk.css.map": "/masonry-grid/static/css/main.cf76d3e2.chunk.css.map",
+    "static/media/logo.svg": "/masonry-grid/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7e91340.js",
+    "static/js/2.f550f601.chunk.js",
+    "static/css/main.cf76d3e2.chunk.css",
+    "static/js/main.a8f3a786.chunk.js"
+  ]
+}
