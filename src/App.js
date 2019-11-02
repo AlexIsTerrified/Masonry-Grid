@@ -38,14 +38,14 @@ class App extends Component{
 	else if(!isLoaded)return (<div>loading...</div>);
 	else
 		{
-			if(this.state.width < 460)
+			if(this.state.width < 500)
 				return (<div className="column">
 						{items.map((ob, a) => (
 							<div key={a}><img src={ob['url']} alt=""></img></div>
 							))}
 					</div>	
 					);
-			else if(this.state.width < 720)
+			else if(this.state.width < 820)
 				return (<React.Fragment>
 					<div className="column">
 						{items.map((ob, a) => {if(a%2===0)return (
